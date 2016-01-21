@@ -1,0 +1,12 @@
+{
+  "name": "locales",
+  "version": "0.1.0",
+  "author": "loispuig",
+  "summary": "Configure locales on Debian",
+  "license": "MIT",
+  "source": "https://github.com/loispuig/puppet-locales",
+  "project_page": null,
+  "issues_url": "https://github.com/loispuig/puppet-hostname/issues",
+  "dependencies": []
+}
+
